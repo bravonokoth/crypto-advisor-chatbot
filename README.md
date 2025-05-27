@@ -33,3 +33,4 @@ This repository contains the solution for the Week 1 Assignment of PLP Academy, 
 ## Files
 - `crypto_advisor.py`: The main Python program implementing the chatbot.
 - `README.md`: This file, documenting the project and usage instructions.
+- `screenshots/`: Folder containing screenshots of the chatbot in action.
